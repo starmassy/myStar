@@ -1,0 +1,2 @@
+# myStar
+Esercitazione per .Net
